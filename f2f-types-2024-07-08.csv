@@ -1,0 +1,31 @@
+user,subtype,engagement_type
+Prospective Student,Applying,1
+Prospective Student,With offer,1
+Prospective Student,With offer,2
+Undergraduate,Inquisitive,1
+Undergraduate,Inquisitive,2
+Undergraduate,Exploring,2
+Undergraduate,Exploring,3
+Undergraduate,Purposeful,3
+Undergraduate,Purposeful,4
+Undergraduate,Purposeful,5
+Undergraduate,Purposeful,6
+Teacher,Inquisitive,1
+Teacher,Inquisitive,2
+Teacher,Inquisitive,6
+Teacher,Exploring,2
+Teacher,Exploring,3
+Teacher,Exploring,4
+Teacher,Purposeful,3
+Teacher,Purposeful,4
+Teacher,Purposeful,5
+Researcher,Inquisitive,1
+Researcher,Inquisitive,2
+Researcher,Inquisitive,6
+Researcher,Exploring,4
+Researcher,Exploring,5
+Researcher,Purposeful,4
+Researcher,Purposeful,5
+Librarian,Exploring,2
+Librarian,Exploring,4
+Librarian,Exploring,5
